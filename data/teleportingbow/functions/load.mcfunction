@@ -1,0 +1,1 @@
+scoreboard objectives add launch minecraft.used:minecraft.bow
